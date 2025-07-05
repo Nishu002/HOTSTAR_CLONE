@@ -6,7 +6,7 @@ A responsive Hotstar homepage clone built using HTML, CSS, and JavaScript. Inclu
 
 ## 🔗 Live Demo
 
-[Click here to view the project](https://github.com/Nishu002/HOTSTAR_CLONE/blob/main/index.html)  
+[Click here to view the project](https://github.com/Nishu002/HOTSTAR_CLONE)  
 ---
 
 ## 📸 Screenshots
