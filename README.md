@@ -79,7 +79,3 @@ This project is for educational use only. No copyright infringement intended.
 Inspired by the UI of [Disney+ Hotstar](https://www.hotstar.com/). This project is built for learning and practice purposes only.
 
 ---
-
-## 📄 License
-
-This project is for educational use only. No copyright infringement intended.
